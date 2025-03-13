@@ -1,91 +1,74 @@
-## Hi there 👋
+# 👋 Hey there! I'm Yaw  
+🔹 **Cybersecurity Enthusiast | SOC & IAM Focused**  
+🔹 **Threat Detection | SIEM | Incident Response | Cloud Security**  
 
-# 👨‍💻 Adjei Yaw Osei | Cybersecurity Professional
+I specialize in **Security Operations (SOC), Identity & Access Management (IAM), and Threat Detection**. My focus is on **log analysis, SIEM tuning, IAM security, and cloud security**, ensuring secure access control and proactive threat detection.  
 
-Welcome! I’m Adjei Yaw Osei, a Cybersecurity Enthusiast, Cloud Security Advocate, and passionate Tech Innovator from Kumasi, Ghana. My goal? To revolutionize cybersecurity by creating solutions that safeguard the future of digital systems, especially in the finance and cloud spaces.
-
-I’m driven by the belief that cybersecurity is not just about protecting data**—it’s about building trust, **empowering individuals, and creating a safe digital environment where technology can thrive. From securing sensitive financial transactions to improving the security of cloud infrastructures, I’m committed to pushing the boundaries of what’s possible in the cybersecurity landscape.
-
----
-
-## 🚀 What I Stand For
-
-- Innovation: I don’t just follow trends; I create them. My projects explore AI, automation, and blockchain to make cybersecurity smarter and more efficient.
-- Integrity: With every line of code I write, I prioritize trust and transparency. I am dedicated to making sure systems and data remain secure.
-- Community: Cybersecurity is a team effort. I actively engage in spreading awareness, leading workshops, and collaborating with other professionals to tackle the evolving threat landscape.
+I’m actively working on **SOC automation, IAM security policies, and advanced threat detection workflows** to improve **incident response and security monitoring**.  
 
 ---
 
-## 🌐 My Cybersecurity Journey
-
-From a young age, I’ve been captivated by how digital systems work and how vulnerable they are. I began experimenting with coding and network security at an early age, eventually diving deep into ethical hacking, cloud security, and penetration testing.
-
-Through hands-on projects, internships with top-tier organizations, and continuous learning, I’ve honed my skills in DevSecOps, financial cybersecurity, and cloud security. I aim to use this knowledge not just to secure systems, but to transform the cybersecurity industry by focusing on innovative solutions that are both scalable and effective.
-
----
-
-## 🛠️ My Expertise
-
-- Languages & Frameworks: Python, C++, JavaScript, HTML/CSS  
-- Cloud Security: Microsoft Azure, Google Cloud  
-- Cybersecurity Tools: Nmap, Metasploit, Nessus, SIEM, Splunk, Wireshark  
-- Security Practices: Vulnerability Assessment, Incident Response, Secure Coding, Penetration Testing  
-- Emerging Tech: Blockchain Security, AI in Cybersecurity, Fraud Detection
+## 🚀 What I’m Working On  
+✅ **SOC Playbook & Incident Response Mapping** – Creating **detection rules for phishing, privilege escalation, and insider threats, mapped to MITRE ATT&CK**.  
+✅ **IAM Security & Zero Trust Implementation** – Automating **access control auditing and monitoring role misconfigurations in Azure AD, AWS IAM, and Google Cloud IAM**.  
+✅ **Threat Detection & SIEM Projects** – Developing **SIEM correlation rules to detect brute force attacks, DNS tunneling, and unauthorized privilege escalations**.  
 
 ---
 
-## 💡 Projects That Matter
-
-### FinSecGuard  
-A financial security tool that integrates AES encryption, real-time fraud detection, and advanced password-strength analysis to protect sensitive financial data. With a focus on real-world applications, this project is aimed at creating more secure and transparent financial systems.  
-- Key Features: AES encryption, real-time fraud detection, password analysis.  
-- Impact: Reduced vulnerabilities in financial transactions by 40%, enhancing data security for digital finance.
-
-### AutoPent  
-A next-gen penetration testing automation tool designed to streamline vulnerability assessments and reporting, reducing manual testing time and increasing accuracy.  
-- Tech: Python, Nmap, Wireshark.  
-- Outcome: Increased detection accuracy by 35%, reducing time-to-report by 40%, and enabling quicker response to vulnerabilities.
-
-### Website Portfolio  
-A personal website where I showcase my projects, skills, and achievements in a minimalist, user-friendly format.  
-- Tech Used: HTML, CSS, JavaScript.  
-- Explore: [Visit My Portfolio](https://yoadjei.github.io)
+## 🛠 My Security Toolkit  
+💻 **Languages & Scripting**: Python, C++, Bash, SQL  
+🔍 **Threat Detection & SIEM**: Splunk, Microsoft Sentinel, Elastic Stack (ELK)  
+🔐 **IAM & Cloud Security**: Azure AD, AWS IAM, Google Cloud IAM, Zero Trust  
+📊 **SOC Operations & Incident Response**: MITRE ATT&CK, YARA, Sysmon, Windows Event Logs  
+🛡 **Security Tools**: Wireshark, Metasploit, BurpSuite, OpenVAS, Suricata, Nessus, Snort  
 
 ---
 
-## 🎓 Continuous Growth & Certifications
+## 📌 Featured Projects  
 
-I’m a firm believer in lifelong learning. Whether it’s through formal certifications or experimenting with new technologies, I’m always sharpening my skills to stay ahead of evolving cyber threats.
+### 🔹 [Text Encryption with AES](https://github.com/yoadjei/cybersecurity-tools/tree/main/AES_Encryption)  
+📌 **Built a secure encryption system using AES (CBC mode), protecting over 1,000+ text files with 99.9% accuracy**.  
 
-- Google Cybersecurity Professional Certification  
-- Cisco Cybersecurity Essentials  
-- Introduction to Generative AI (Google Cloud)  
-- HP LIFE Certificate in Effective Leadership  
+### 🔹 [FinSecGuard: Financial Security Tool](https://github.com/yoadjei/cybersecurity-tools/tree/main/FinSecGuard)  
+📌 **Developed a financial security system integrating AES encryption & network monitoring, reducing fraud detection time by 40%**.  
 
----
+### 🔹 [Network Sniffer for Security Research](https://github.com/yoadjei/cybersecurity-tools/tree/main/Network%20Sniffer)  
+📌 **Created a packet capture tool analyzing 5,000+ packets per session, detecting anomalous traffic with 95% accuracy**.  
 
-## 🌍 Beyond the Code: My Passion for Community Impact
-
-Cybersecurity isn’t just about securing networks—it’s about protecting people. That’s why I’ve always been deeply involved in community outreach. From leading cybersecurity workshops to raising awareness about digital threats, my mission is to empower others to become informed digital citizens.
-
-Through my nonprofit organization, Voicera, I focus on bringing AI, mental health, and technology education to underserved schools in Ghana, helping students understand the power and responsibility of technology.
+### 🔹 [Network Traffic Analyzer](https://github.com/yoadjei/cybersecurity-tools/tree/main/Network%20Traffic%20Analyzer)  
+📌 **Designed a real-time network monitoring system using Z-score anomaly detection, reducing false positives by 30%**.  
 
 ---
 
-## 💬 Let’s Connect
-
-Whether you’re a fellow tech enthusiast, a potential collaborator, or someone passionate about improving digital security, I’d love to connect! Let’s collaborate and build a safer digital future together.
-
-- Email: [adjeiyawosei@gmail.com](mailto:adjeiyawosei@gmail.com)  
-- LinkedIn: [linkedin.com/in/yawosei](https://www.linkedin.com/in/yawosei)  
-- GitHub: [github.com/yoadjei](https://github.com/yoadjei)
+## 🎓 Certifications & Training  
+✅ **ISC2 CC – Certified in Cybersecurity (March 2025)**  
+  
 
 ---
 
-## 🚀 My Vision: Transforming Cybersecurity
-
-As the world becomes more digital, securing it becomes more urgent. I aim to push the limits of cybersecurity with a focus on innovation, automation, and education. I’m dedicated to making a positive impact, both online and offline.
+## 📚 How I Stay Updated  
+📌 **Hands-on Labs**: TryHackMe (SOC Level 1), Blue Team Labs, RangeForce  
+📌 **CTF Challenges**: Hack The Box, TryHackMe (Blue Team Path)  
+📌 **Cybersecurity Reading**: MITRE ATT&CK, SANS Incident Response Case Studies  
+📌 **Threat Intelligence**: Following security advisories & malware analysis reports  
 
 ---
 
-Thank you for visiting my GitHub! I hope you find inspiration in my projects, and I look forward to connecting and collaborating with you soon!
+## 🚀 Next Steps  
+🔹 **Improve SOC automation** – Automating log parsing & security alerting.  
+🔹 **Contribute to open-source security projects** – Writing **Sigma & YARA rules for public use**.  
+🔹 **Work towards a remote SOC internship** – Applying my **SIEM, IAM, and incident response skills**.  
+
+---
+
+## 📬 Let’s Connect  
+📧 **Email**: adjeiyawosei@gmail.com  
+💻 **GitHub**: [github.com/yoadjei](https://github.com/yoadjei)  
+🔗 **LinkedIn**: [linkedin.com/in/yawosei](https://www.linkedin.com/in/yawosei/)  
+
+---
+
+## ⚡ Fun Fact  
+I **chase security threats like I chase footballs**—with speed, strategy, and no hesitation. 😆  
+
+---
