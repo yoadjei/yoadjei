@@ -67,8 +67,3 @@ I’m actively working on **SOC automation, IAM security policies, and advanced 
 🔗 **LinkedIn**: [linkedin.com/in/yawosei](https://www.linkedin.com/in/yawosei/)  
 
 ---
-
-## ⚡ Fun Fact  
-I **chase security threats like I chase footballs**—with speed, strategy, and no hesitation. 😆  
-
----
