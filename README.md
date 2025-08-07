@@ -30,9 +30,21 @@ I like tinkering with networks, breaking things in VMs, and occasionally fixing 
 
 <div align="center">
 
-**💻 Programming:** Python (decent), Java (learning), Bash scripting  
-**🔧 Tools I've Used:** Wireshark, Nmap, some Splunk tutorials, VirtualBox setups  
-**📚 Learning:** Linux basics, networking fundamentals, log analysis  
+**💻 Programming:** 
+![Python](https://img.shields.io/badge/Python-decent-3776AB?style=flat&logo=python&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-learning-ED8B00?style=flat&logo=java&logoColor=white) 
+![Bash](https://img.shields.io/badge/Bash-scripting-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
+
+**🔧 Tools I've Used:** 
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white) 
+![Nmap](https://img.shields.io/badge/Nmap-network_scanning-4682B4?style=flat&logo=nmap&logoColor=white) 
+![Splunk](https://img.shields.io/badge/Splunk-tutorials-000000?style=flat&logo=splunk&logoColor=white) 
+![VirtualBox](https://img.shields.io/badge/VirtualBox-lab_setups-183A61?style=flat&logo=virtualbox&logoColor=white)
+
+**📚 Learning:** 
+![Linux](https://img.shields.io/badge/Linux-basics-FCC624?style=flat&logo=linux&logoColor=black) 
+![Networking](https://img.shields.io/badge/Networking-fundamentals-FF6B35?style=flat&logo=cisco&logoColor=white) 
+![Security](https://img.shields.io/badge/Log_Analysis-learning-red?style=flat&logo=security&logoColor=white)  
 
 </div>
 
@@ -82,7 +94,5 @@ Right now I'm working through:
 ---
 
 *Just a student trying to learn. Feel free to reach out if you want to chat about security stuff or have advice for someone starting out.* 🤝
-
-![Profile Views](https://komarev.com/ghpvc/?username=yoadjei&color=brightgreen&style=flat)
 
 </div>
