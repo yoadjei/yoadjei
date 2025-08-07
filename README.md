@@ -1,69 +1,88 @@
-# 👋 Hey there! I'm Yaw  
-🔹 **Cybersecurity Enthusiast | SOC & IAM Focused**  
-🔹 **Threat Detection | SIEM | Incident Response | Cloud Security**  
+<div align="center">
 
-I specialize in **Security Operations (SOC), Identity & Access Management (IAM), and Threat Detection**. My focus is on **log analysis, SIEM tuning, IAM security, and cloud security**, ensuring secure access control and proactive threat detection.  
+# Hey, I'm Yaw 👋
 
-I’m actively working on **SOC automation, IAM security policies, and advanced threat detection workflows** to improve **incident response and security monitoring**.  
+🎓 **Computer Science student at KNUST, Ghana** 🇬🇭  
+🔐 Currently learning cybersecurity and building stuff 🛠️
 
----
+[![Website](https://img.shields.io/badge/🌐_Portfolio-yawosei.me-green?style=flat)](https://yawosei.me)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=flat)](https://www.linkedin.com/in/yawosei/)
 
-## 🚀 What I’m Working On  
-✅ **SOC Playbook & Incident Response Mapping** – Creating **detection rules for phishing, privilege escalation, and insider threats, mapped to MITRE ATT&CK**.  
-✅ **IAM Security & Zero Trust Implementation** – Automating **access control auditing and monitoring role misconfigurations in Azure AD, AWS IAM, and Google Cloud IAM**.  
-✅ **Threat Detection & SIEM Projects** – Developing **SIEM correlation rules to detect brute force attacks, DNS tunneling, and unauthorized privilege escalations**.  
+</div>
 
 ---
 
-## 🛠 My Security Toolkit  
-💻 **Languages & Scripting**: Python, C++, Bash, SQL  
-🔍 **Threat Detection & SIEM**: Splunk, Microsoft Sentinel, Elastic Stack (ELK)  
-🔐 **IAM & Cloud Security**: Azure AD, AWS IAM, Google Cloud IAM, Zero Trust  
-📊 **SOC Operations & Incident Response**: MITRE ATT&CK, YARA, Sysmon, Windows Event Logs  
-🛡 **Security Tools**: Wireshark, Metasploit, BurpSuite, OpenVAS, Suricata, Nessus, Snort  
+<div align="center">
+
+## 🤔 What I'm About
+
+</div>
+
+I'm a CS student who got interested in cybersecurity after realizing how much I don't know about it. Currently in my second year at KNUST, trying to figure out this whole security thing while keeping up with regular coursework.
+
+I like tinkering with networks, breaking things in VMs, and occasionally fixing them. Still pretty new to most of this, but I'm learning and growing every day.
+
+<div align="center">
+
+## 🧠 What I Actually Know
+
+</div>
+
+<div align="center">
+
+**💻 Programming:** Python (decent), Java (learning), Bash scripting  
+**🔧 Tools I've Used:** Wireshark, Nmap, some Splunk tutorials, VirtualBox setups  
+**📚 Learning:** Linux basics, networking fundamentals, log analysis  
+
+</div>
+
+<div align="center">
+
+## 🚀 Current Projects
+
+</div>
+
+Most of my repos are learning projects that helped me understand key concepts:
+
+- **🔐 [AES Encryption Tool](https://github.com/yoadjei/cybersecurity-tools/tree/main/AES_Encryption)** - File encryption script that taught me cryptography basics
+- **📡 [Network Sniffer](https://github.com/yoadjei/cybersecurity-tools/tree/main/Network%20Sniffer)** - Packet analysis project from following security tutorials
+- **📊 [Traffic Analyzer](https://github.com/yoadjei/cybersecurity-tools/tree/main/Network%20Traffic%20Analyzer)** - Network monitoring tool to understand traffic patterns
+
+<div align="center">
+
+## 🎯 Learning Path
+
+</div>
+
+<div align="center">
+
+Right now I'm working through:
+
+🏴‍☠️ **TryHackMe rooms** (slowly but surely)  
+📖 **University coursework** 📚  
+🎥 **YouTube tutorials** when I get stuck  
+⚡ **Breaking and fixing** my own lab setup  
+
+</div>
+
+<div align="center">
+
+**Goal:** Maybe land an internship eventually and see if I actually like doing this professionally 💼
+
+</div>
+
+<div align="center">
+
+## 📬 Get in Touch
+
+[![Website](https://img.shields.io/badge/🌐_yawosei.me-Visit-green?style=for-the-badge)](https://yawosei.me)  
+[![Email](https://img.shields.io/badge/📧_Email-Contact-red?style=for-the-badge)](mailto:adjeiyawosei@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-blue?style=for-the-badge)](https://www.linkedin.com/in/yawosei/)
 
 ---
 
-## 📌 Featured Projects  
+*Just a student trying to learn. Feel free to reach out if you want to chat about security stuff or have advice for someone starting out.* 🤝
 
-### 🔹 [Text Encryption with AES](https://github.com/yoadjei/cybersecurity-tools/tree/main/AES_Encryption)  
-📌 **Built a secure encryption system using AES (CBC mode), protecting over 1,000+ text files with 99.9% accuracy**.  
+![Profile Views](https://komarev.com/ghpvc/?username=yoadjei&color=brightgreen&style=flat)
 
-### 🔹 [FinSecGuard: Financial Security Tool](https://github.com/yoadjei/cybersecurity-tools/tree/main/FinSecGuard)  
-📌 **Developed a financial security system integrating AES encryption & network monitoring, reducing fraud detection time by 40%**.  
-
-### 🔹 [Network Sniffer for Security Research](https://github.com/yoadjei/cybersecurity-tools/tree/main/Network%20Sniffer)  
-📌 **Created a packet capture tool analyzing 5,000+ packets per session, detecting anomalous traffic with 95% accuracy**.  
-
-### 🔹 [Network Traffic Analyzer](https://github.com/yoadjei/cybersecurity-tools/tree/main/Network%20Traffic%20Analyzer)  
-📌 **Designed a real-time network monitoring system using Z-score anomaly detection, reducing false positives by 30%**.  
-
----
-
-## 🎓 Certifications & Training  
-✅ **ISC2 CC – Certified in Cybersecurity (March 2025)**  
-  
-
----
-
-## 📚 How I Stay Updated  
-📌 **Hands-on Labs**: TryHackMe (SOC Level 1), Blue Team Labs, RangeForce  
-📌 **CTF Challenges**: Hack The Box, TryHackMe (Blue Team Path)  
-📌 **Cybersecurity Reading**: MITRE ATT&CK, SANS Incident Response Case Studies  
-📌 **Threat Intelligence**: Following security advisories & malware analysis reports  
-
----
-
-## 🚀 Next Steps  
-🔹 **Improve SOC automation** – Automating log parsing & security alerting.  
-🔹 **Contribute to open-source security projects** – Writing **Sigma & YARA rules for public use**.  
-🔹 **Work towards a remote SOC internship** – Applying my **SIEM, IAM, and incident response skills**.  
-
----
-
-## 📬 Let’s Connect  
-📧 **Email**: adjeiyawosei@gmail.com  
-💻 **GitHub**: [github.com/yoadjei](https://github.com/yoadjei)  
-🔗 **LinkedIn**: [linkedin.com/in/yawosei](https://www.linkedin.com/in/yawosei/)  
-
----
+</div>
