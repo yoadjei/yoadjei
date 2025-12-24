@@ -2,7 +2,16 @@
 
 An aspiring AI/ML engineer, Computer Science undergrad at Kwame Nkrumah University of Science and Technology, Ghana.
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+---
+
 ### 📫 How to reach me **adjeiyawosei@gmail.com**
+
+<br/>
 
 ## Connect with me:
 <p align="left">
@@ -10,6 +19,17 @@ An aspiring AI/ML engineer, Computer Science undergrad at Kwame Nkrumah Universi
 <a href="https://twitter.com/_yawosei" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="_yawosei" height="30" width="40" /></a>
 <a href="https://yawosei.me" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google-chrome.svg" alt="yawosei.me" height="30" width="40" /></a>
 </p>
+
+<br/>
+
+## 🚀 Current Focus
+
+- 🔬 **Research:** Automated phishing & BEC detection using NLP and deep learning
+- 🎯 **Building:** AI-powered security systems with 99.81% accuracy
+- 🏆 **Achievement:** Won "Best Use of Data" at NASA Space Apps Hackathon
+- 📚 **Learning:** Advanced transformer models, SIEM automation, and MLOps
+
+<br/>
 
 ## Languages and Tools:
 <p align="left">
@@ -33,8 +53,25 @@ An aspiring AI/ML engineer, Computer Science undergrad at Kwame Nkrumah Universi
 <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoadjei&show_icons=true&locale=en&layout=compact" alt="yoadjei" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoadjei&show_icons=true&locale=en" alt="yoadjei" /></p>
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yoadjei&theme=radical&no-frame=true&row=1&column=7" alt="yoadjei" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoadjei&" alt="yoadjei" /></p>
+<br/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yoadjei&show_icons=true&locale=en&layout=compact&theme=radical" alt="yoadjei" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yoadjei&show_icons=true&locale=en&theme=radical" alt="yoadjei" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yoadjei&theme=radical" alt="yoadjei" />
+</p>
