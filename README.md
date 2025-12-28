@@ -8,8 +8,8 @@ A passionate AI/ML Engineer and Security Researcher based in Ghana. Currently st
 ## Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/yawosei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yawosei" height="30" width="40" /></a>
-<a href="https://twitter.com/_yawosei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_yawosei" height="30" width="40" /></a>
-<a href="https://yawosei.me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/globe.svg" alt="yawosei.me" height="30" width="40" /></a>
+<a href="https://twitter.com/_yawosei" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="_yawosei" height="30" /></a>
+<a href="https://yawosei.me" target="blank"><img align="center" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="yawosei.me" height="30" /></a>
 </p>
 
 ## Languages and Tools:
