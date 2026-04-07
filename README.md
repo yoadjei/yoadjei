@@ -1,6 +1,7 @@
 # Hi 👋, I'm Yaw Osei
 
-A passionate AI/ML Engineer and Security Researcher based in Ghana. Currently studying CS at KNUST.
+I do a bit of everything :)
+AI/ML, DevOps Engineer and Security Researcher based in Ghana. Currently studying CS at KNUST.
 
 
 ### 📫 How to reach me **adjeiyawosei@gmail.com**
