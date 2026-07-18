@@ -1,7 +1,6 @@
 # Hi 👋, I'm Yaw Osei
 
 I do a bit of everything :)
-AI/ML, DevOps Engineer and Security Researcher based in Ghana. Currently studying CS at KNUST.
 
 
 ### 📫 How to reach me **adjeiyawosei@gmail.com**
@@ -10,7 +9,7 @@ AI/ML, DevOps Engineer and Security Researcher based in Ghana. Currently studyin
 <p align="left">
 <a href="https://linkedin.com/in/yawosei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yawosei" height="30" width="40" /></a>
 <a href="https://twitter.com/_yawosei" target="blank"><img align="center" src="https://cdn.simpleicons.org/x/000000" alt="_yawosei" height="30" width="40" /></a>
-<a href="https://yawosei.me" target="blank"><img align="center" src="https://www.svgrepo.com/show/535408/globe.svg" alt="yawosei.me" height="30" width="40" /></a>
+<a href="https://yawosei.tech" target="blank"><img align="center" src="https://www.svgrepo.com/show/535408/globe.svg" alt="yawosei.tech" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools:
